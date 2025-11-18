@@ -14,6 +14,9 @@ A key focus was on implementing **drill-down functionality** to allow users to e
 - Practice dashboard layout and interactivity in Power BI.
 
 ---
+[Link to PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZjNlOTUzMzItZGRhMS00YzUzLTkwNjItYTIxOWIyYzAwYzc1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+---
 
 ## 📊 Visualizations Included
 
